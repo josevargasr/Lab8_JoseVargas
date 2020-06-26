@@ -1,0 +1,10 @@
+Hernan|7|38|Mercurio|Humano|
+Monica|10|18|Marte|Amanto|
+Leonardo|2|35|Saturno|Humano|
+Clauida|1|70|Jupiter|Amanto|
+Carlos|8|40|Mercurio|Humano|
+Diego|4|65|Tierra|Amanto|
+Miguel|9|32|Saturno|Humano|
+Javier|10|17|Jupiter|Amanto|
+Jose|2|25|Marte|Humano|
+Marco|5|45|Tierra|Amanto|

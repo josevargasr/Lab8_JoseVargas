@@ -1,0 +1,11 @@
+Spiderman|9|18|Marte|Humano|
+Hulk|5|25|Tierra|Amanto|
+Capitan A|8|19|Jupiter|Humano|
+Black Widow|10|18|Mercurio|Amanto|
+Jose Vargas|2|14|Marte|Humano|
+SuperMan|6|36|Tierra|Amanto|
+Thor|1|10|Saturno|Humano|
+Iron Man|5|150|Marte|Amanto|
+Claudia|6|23|Saturno|Humano|
+Batman|9|29|Tierra|Amanto|
+Fer|6|18|Pluto|Amanto|
